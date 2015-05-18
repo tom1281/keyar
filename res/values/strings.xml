@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KEYar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">Bluetooth Low Energy is not supported on this device</string>
+    <string name="title_activity_arscan">ARScan</string>
+    <string name="ble_device_searching">Searching for your\nBluetooth Device</string>
+    <string name="ble_device_not_found">Bluetooth Device not found, \ntry again?</string>
+    <string name="search_again_button">Search again!</string>
+
+</resources>
